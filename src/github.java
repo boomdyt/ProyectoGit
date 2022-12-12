@@ -9,7 +9,7 @@ public class github {
 		System.out.print("Introduce primer número: ");
 		numero1 = sc.nextInt();
 		System.out.print("Introduce segundo número: ");
-		numero2 = sc.nextInt();
+		numero2 = sc.nextInt(); 
 		}
 
 }
